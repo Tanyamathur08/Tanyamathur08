@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey there! 
 
-<!--
-**Tanyamathur08/Tanyamathur08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tanya, a Computer Science student passionate about AI, Machine Learning, and building impactful tech solutions.
 
-Here are some ideas to get you started:
+I enjoy developing intelligent systems, full-stack applications, and solving real-world problems through technology and research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm working on AI-powered applications, machine learning projects, predictive analytics, and scalable web solutions.
+
+My main tech stack includes Python, React, JavaScript, TypeScript, Node.js, TensorFlow, and Scikit-learn.
+
+I’m continuously exploring new technologies, improving my development skills, and building projects focused on innovation and practical impact.
+
+### Tools & Technologies
+* Java
+* Python
+* JavaScript & TypeScript
+* React.js
+* Node.js
+* TensorFlow
+* Scikit-learn
+* Git & GitHub
+* VS Code
+* Linux
+
+### Reach Me
+* LinkedIn: linkedin.com/in/tanya-mathur-7a4996310
+* GitHub: github.com/Tanyamathur08
+
